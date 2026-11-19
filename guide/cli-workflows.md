@@ -7,6 +7,8 @@ description: 安装并安全使用 Zenith CLI 和 Agent Skills，完成查询、
 
 Zenith CLI 是面向脚本和自动化的个人 API 客户端。Agent Skills 使用同一个 CLI，帮助支持的 Agent 按照相同的权限和恢复规则执行任务。本页覆盖当前已验证的个人工作流；平台管理员、项目管理员和厂商 API 不会因为安装 CLI 而获得额外权限。
 
+如果你在 CPU 开发机上申请 GPU 或提交训练，请先阅读[Zenith CLI 快速上手](/guide/cli-quick-start.html)。
+
 ## 开始前准备
 
 - 使用 **Node.js 24** 和 npm 11（随 Node.js 24 提供）。当前只验证 macOS 和 Linux；Windows 尚未验证。
